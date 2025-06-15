@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+
+I am a multidisciplinary learner and aspiring tech innovator based in Rabat, Morocco, with a strong foundation in Life Sciences, Economics, and Web Development. Currently enrolled in the ALX Software Engineering and Data Science track, I focus on building AI-powered solutions that address real-world challenges in education, sustainability, and employment. With hands-on experience in renewable energy, stakeholder research, and UI/UX design for EdTech tools, I bring together technical, analytical, and communication skills to create meaningful, human-centered innovations. I’m passionate about using technology to bridge knowledge gaps, empower learners, and shape a more equitable future.
