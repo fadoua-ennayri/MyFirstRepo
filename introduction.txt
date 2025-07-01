@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is Fadoua Ennayri. I am a passionate learner eager to improve my skills in software development and version control using GitHub. This is my first step towards becoming proficient in collaborative coding and project management.
+
+I enjoy exploring new technologies and hope to contribute to meaningful projects in the future.
