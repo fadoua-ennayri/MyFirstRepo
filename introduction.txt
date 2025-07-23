@@ -1,0 +1,4 @@
+Hello! My name is Fadoua Ennayri. I am passionate about technology, education, and continuous learning.  
+Currently, I am learning Git and GitHub to improve my skills in version control and collaboration.
+
+I enjoy working on projects that combine programming and teaching, and I look forward to building great things using these tools.
